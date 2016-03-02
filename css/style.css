@@ -1,0 +1,38 @@
+body {
+  margin: 30px;
+  background-color: #eaf5fb;
+}
+
+.well {
+  background-color: #C7AFAA;
+}
+
+.notable-inventions {
+  margin-top: 80px;
+}
+
+.carousel-content {
+  display: flex;
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+}
+
+#quote-carousel {
+  width: 100%;
+  height: auto;
+  padding: 50px;
+  margin-top: 30px;
+}
+
+.quote-signature {
+  color: black;
+  font-style: normal;
+}
+
+.panel {
+  margin-top: 40px;
+  font-size: 20px;
+  text-align: center;
+  border: 10px solid #d9edf7;
+}
